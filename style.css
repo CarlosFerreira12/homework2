@@ -1,0 +1,194 @@
+
+
+footer{
+    text-align: center;
+    font-size: 18px;
+    color: #FFF;
+    background-color: #0091DA;
+    padding: 30px 0px;
+    margin-bottom: 0px;
+    margin-left: -0.6%;
+    width: 101.3%;
+    height: 6.7%;
+    z-index:1;
+    margin-top: 10%;
+}
+
+header{
+    position: absolute;
+    margin-top:0.4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 60%;
+}
+
+.article_header{
+    width:100%;
+    line-height: 1px;
+}
+
+.article_date, .article_date a{
+    color: #999;
+    font-style: italic;
+    margin-top: 0.5rem;
+    font-weight:normal;
+    font-size: 20px;
+}
+
+.article_date a{
+    text-decoration: underline;
+}
+
+section div div a{
+    float: right;
+}
+
+
+.hireUs{
+
+    text-align: center;
+}
+
+.hireUs a{
+    color: blue;
+    text-decoration: underline;
+}
+section{
+    padding-left: 20%;
+    padding-right: 20%;
+    line-height: 200%;
+    color: black;
+    margin-top: 5%;
+}
+
+blockquote{
+    border-left: 5px solid #0091DA;
+    margin-left: -3%;
+    padding-left: 3%;
+}
+
+.info{
+    float: right;
+    width: 85%;
+}
+
+.author_head h2{
+    color: #0091DA;
+}
+
+.author{
+    border-top:1px dotted #999;
+    height: 55%;
+}
+
+.author_read p{
+    color: #999;
+    font-style: italic;
+    margin-left: 15.5%;
+    margin-top: 2%;
+}
+
+.author_photo{
+    float: left;
+    width: 15%;
+    margin-top: 3%;
+}
+
+#text1{
+    display: inline-block;
+    margin-top: 20%;
+}
+#text2{
+    display: inline-block;
+    margin-top: 18%;
+}
+
+.twiterButton{
+    float: right;
+}
+
+.comment a{
+    float: left;
+}
+
+.twiterButton img{
+    float: right;
+}
+
+.cmtb{
+    height: 60px;
+}
+.article_body, p{
+    padding-top: 0;
+    font-size: 20px;
+    color: #565656;
+}
+
+section header{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial,sans-serif;
+    color: white;
+    width:60%;
+    position: absolute;
+    margin-left: 0%;
+}
+
+section header div a{
+    display: inline;
+    margin-left: -9%;
+    float: left;
+    margin-top: -3%;
+}
+
+.h4{
+    text-align: center;
+    color: #999;
+    font-family: "Goudy Old Style";
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 1rem;
+    font-weight: normal;
+    margin-bottom: 0%;
+}
+
+.negrito{
+    font-weight: bold;
+    color: #000000;
+}
+
+.elements{
+    position: absolute;
+    margin-top:0.4%;
+    margin-left: 19%;
+    margin-right: 24%;
+    width: 60%;
+}
+
+#mtl{
+    float:right;
+}
+
+#gb{
+    margin-top: 1%;
+}
+
+nav{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #F6F6F8;
+    padding: 27px 0px;
+}
+
+.navbar{
+    padding-top: 5%;
+}
+
+ul, li, a, p{
+    font: inherit;
+    vertical-align: baseline;
+    display: inline;
+    color: #565656;
+    text-decoration: none;
+}
